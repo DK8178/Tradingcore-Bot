@@ -3,6 +3,7 @@ import requests, os, cv2, numpy as np
 from PIL import Image
 
 BOT_TOKEN = "7240415432:AAFAS5koSCfWdaLKy6M0U2PMQqBg9OWX1ig"
+
 CHAT_ID = "5834718648"
 
 app = Flask(__name__)
