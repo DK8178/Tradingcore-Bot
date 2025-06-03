@@ -1,7 +1,8 @@
 from flask import Flask, request, jsonify
 import requests
 
-BOT_TOKEN = "7240415432:AAG4eIKwdi4L2asfY7KDY5Z8fGGV1nfsRVU"
+BOT_TOKEN = "7240415432:AAFAS5koSCfWdaLKy6M0U2PMQqBg9OWX1ig"
+
 CHAT_ID = "5834718648"
 
 app = Flask(__name__)
